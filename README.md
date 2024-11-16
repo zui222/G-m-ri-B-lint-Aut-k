@@ -1,1 +1,1 @@
-# G-m-ri-B-lint-Aut-k
+# Gomori-Balint-Autok
